@@ -1,0 +1,7 @@
+{
+    "name": "Profanity Guardrails for Chat",
+  	"description": "Prevents chat responses from being returned that contain insults or profanity",
+    "modelCategory": "BUSINESS_MODEL",
+    "modelMethodology": "LLM",
+  	"tags": []
+}
